@@ -1,0 +1,12 @@
+1. Write a blog on Difference between HTTP1.1 vs HTTP2?
+
+  HTTP - hypertext transfer protocol
+    transfer-passing data/information.
+    protocol-rules
+
+    1.HTTP : basic version[HTTP/1.0] 
+    simple way for computers to understand each other.
+
+    2. HTTP 1.1 :this version made things faster by allowing the computer to reuse the information.
+
+    3. HTTP 2 : send and recieve more information at the same time.
